@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Heavitas;
+    src: url('../fonts/Heavitas.ttf');
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/Montserrat-Medium.ttf');
+}
+
+*{
+    font-family: Montserrat;
+}
+
+#heavitas-font{
+    font-family: Heavitas;
+}
